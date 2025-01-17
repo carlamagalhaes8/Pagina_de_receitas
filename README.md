@@ -1,5 +1,5 @@
 [![Banner de Carla Magalhaes](https://github.com/user-attachments/assets/433fe11c-644e-44e6-b331-c012a2d371aa)](https://github.com/carlamagalhaes8)
-<br><h1>Seja bem vindo ao projeto "Pagina_de_receitas"</h1>!
+<br><h1>Seja bem vindo ao projeto "Pagina_de_receitas"!</h1>
 
 <br><h2>📑 Tabela de conteúdos</h2>
 1. Descrição<br>
